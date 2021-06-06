@@ -1,4 +1,4 @@
-### Hi there 👋, my name is **Siddharth**
+### Hi there <img src="https://raw.githubusercontent.com/siddharth23ux/siddharth23ux/main/wave.gif" width="30px">, my name is **Siddharth**
 #### I am a **Btech Undergrad** in **CS** with **Applied Mathematics**
 ![I am a **Btech Undergrad** in **CS** with **Applied Mathematics**](https://raw.githubusercontent.com/siddharth23ux/siddharth23ux/main/Tropical%20Wear%20Etsy%20Banner.png)
 
