@@ -5,8 +5,6 @@ M.Tech AI @ IIT Kharagpur • AI/ML SDE — production LLMs (PEFT, RAG), multimo
 
 ---
 
-![Banner](https://raw.githubusercontent.com/siddharth23ux/siddharth23ux/main/Tropical%20Wear%20Etsy%20Banner.png)
-
 ## About
 I am an AI researcher and engineer who builds research-driven machine learning systems that scale to production. I work across large language models (LLMs), multimodal and vision–language systems, Graph ML, and the end-to-end infrastructure (MLOps) required to deploy and operate reliable, low-latency ML products. I combine academic rigor (model design, evaluation and interpretability) with industrial engineering (containerized serving, orchestration, data pipelines, observability) to translate prototypes into useful, auditable systems.
 
@@ -148,15 +146,6 @@ AI/ML SDE, ML Engineer, Research Engineer roles; collaborations on LLMs, multimo
 ## Badges & metrics
 [![trophy](https://github-profile-trophy.vercel.app/?username=siddharth23ux)](https://github.com/ryo-ma/github-profile-trophy)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth23ux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth23ux&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=siddharth23ux)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth23ux&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   
 ![GitHub metrics](https://metrics.lecoq.io/siddharth23ux)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddharth23ux)  
-![Profile views](https://gpvc.arturio.dev/siddharth23ux)
-
----
-
-## How to use / next steps I can do for you
-1. I can generate **3–6 pinned-repo README intros** (one-sentence blurb + tech + quick-start + badges) so your pinned repos look polished.  
-2. I can create **short repo READMEs** for each project (Sustainable LLMs for Finance, Camouflage Detection, Multilingual OCR, VTalks, MLOps Playbook, Music Recommender).  
-3. I can produce a **LinkedIn-ready summary** and a 160-character GitHub bio variation if you want small-format versions.  
