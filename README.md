@@ -50,7 +50,7 @@ I am an AI researcher and engineer who builds research-driven machine learning s
 
 ---
 
-## Selected projects (complete list from resume)
+## Projects
 1. **Sustainable LLMs for Finance** — M.Tech Project (Advisor: Dr. Mahesh Mohan M R) (May 2025 — Present)  
    - Building LLM-driven methods to improve portfolio sustainability by optimizing ESG scores alongside returns.  
    - Conducted literature survey and designed approaches in tokenization, domain adaptation, and multi-agent optimization for interpretable recommendations.  
@@ -105,7 +105,7 @@ I am an AI researcher and engineer who builds research-driven machine learning s
 
 ## Positions of responsibility
 1. **Machine Learning Lab — Teaching Assistant**  
-   - Managed lab sessions, invigilation, and designed, administered, and graded tutorials and assignments. (Self-declared; CDC not able to verify documents.)
+   - Managed lab sessions, invigilation, and designed, administered, and graded tutorials and assignments.
 
 ---
 
@@ -133,19 +133,7 @@ AI/ML SDE, ML Engineer, Research Engineer roles; collaborations on LLMs, multimo
 1. **GitHub:** https://github.com/siddharth23ux  
 2. **LinkedIn:** https://www.linkedin.com/in/siddharth-singh-kiryal-95b590199/  
 3. **Threads:** https://www.threads.com/@siddharthsingh.kiryal  
-4. **Spotify (personal):** https://open.spotify.com/user/31y3icnk6tezlv2meipau5akei3i  
+4. **Spotify:** https://open.spotify.com/user/31y3icnk6tezlv2meipau5akei3i  
 5. **Facebook:** https://www.facebook.com/siddharthsingh.kiryal.3  
-6. **Instagram:** https://www.instagram.com/devilster277/  
-7. **Twitter:** https://twitter.com/KiryalSingh  
-8. **StackOverflow:** https://stackoverflow.com/users/16144865  
-9. **YouTube:** https://www.youtube.com/channel/_DOGsEyvtttK2FYunLQj7g  
-10. **Email:** (use GitHub email button or add your preferred public email)
-
----
-
-## Badges & metrics
-[![trophy](https://github-profile-trophy.vercel.app/?username=siddharth23ux)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth23ux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth23ux&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   
-![GitHub metrics](https://metrics.lecoq.io/siddharth23ux)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddharth23ux)  
+6. **Instagram:** https://www.instagram.com/siddharthsingh.kiryal/ 
+7. **StackOverflow:** https://stackoverflow.com/users/16144865  
